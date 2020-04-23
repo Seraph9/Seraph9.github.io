@@ -1,6 +1,6 @@
 Abdullah Ahmad Wafy is a Full Stack Software Engineer — both MERN and MEAN stack — specializing in both front-end and
-        back-end technologies. He is proficient in HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, SQL and mySQL, React,
-        Redux, Python, and Ruby. Abdullah is an UC Davis alumnus, having earned his Bachelor’s Degree in Classical Civilizations
+        back-end technologies. He is proficient in HTML5, CSS3, Bootstrap, JavaScript, jQuery, Node.js, Express.js, Angular.js, MongoDB, SQL with both mySQL and PostgreSQL for RDBMSs, Sequelize for ORM, Pug.js and Handlebars.js (Mustache) for templating engines,  React,
+        Redux, Python, and Ruby while aspiring to learn more. Abdullah is an UC Davis alumnus, having earned his Bachelor’s Degree in Classical Civilizations
         with an emphasis on the Ancient Greek and Classical Latin languages and literatures. He also did a Religious Studies
         Minor and holds an Associate’s Degree in English with honors. Previously, he’s been licensed as an Emergency Medical
         Technician with the Sacramento Emergency Medical Services. Following his graduation, he has served in the capacity of
